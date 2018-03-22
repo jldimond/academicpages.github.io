@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "James L. Dimond"
-  avatar           : "profile.png"
+  avatar           : "./images/IMG_8533.JPG"
   bio              : "PhD candidate at the University of Washington's School of Aquatic and Fishery Sciences, and Marine Technologist at Western Washington University's Shannon Point Marine Center"
   location         : "Anacortes, WA, USA"
   employer         :
