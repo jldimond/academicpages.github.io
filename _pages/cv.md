@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+University of Vermont (Burlington, VT)		Natural Resources	B.S. 2002
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+University of Rhode Island (Kingston, RI)	Biology			M.S. 2006
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+University of Washington (Seattle, WA)		Aquatic & Fishery Sci.	Ph.D. candidate (2014-present)
+
+Positions Held
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2012-present		Marine Technologist, Shannon Point Marine Center, Western Wash. Univ.
+
+2008-2013		Research Technologist, Shannon Point Marine Center, Western Wash. Univ.
+
+2005-2007	Biological Collector, Marine Biological Laboratory, Woods Hole, Mass.
+
+2003-2005 		Graduate Teaching Assistant, University of Rhode Island
+
+2004 	Research Technician, U.S. EPA National Coastal Assessment, Rhode Island
+
+2002-2003 		Research Assistant, University of Rhode Island
+
 
 Publications
 ======
