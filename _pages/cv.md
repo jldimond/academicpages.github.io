@@ -37,8 +37,6 @@ Publications
 ======
 Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) 
 
-[Article link] (https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252)
-
 Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of Symbiodinium muscatinei and Elliptochloris marina, symbionts found within the aggregating sea anemone Anthopleura elegantissima. Marine Genomics (online) Article link
 
 Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) Photophysiology and hydrogen peroxide generation of the dinoflagellate and chlorophyte symbionts of the sea anemone Anthopleura elegantissima. Journal of Experimental Marine Biology and Ecology 489:43-47 Article link
@@ -114,24 +112,24 @@ Shannon Point Marine Center representative at Compass2Campus, an introduction to
 
 Teaching
 ======
-####University of Rhode Island 
+##### University of Rhode Island 
 BIO 457 Marine Ecology: lab instructor; full control of lab curriculum (2005)
 BIO 101 Introductory Biology: lab instructor (2003-2005)
 BIO 262 Introduction to Ecology: teaching assistant, mainly grading (2004)
 
-####Western Washington University
+##### Western Washington University
 ESCI 426 Marine Invertebrates and Their Environment: substitute instructor (2010-2013)
 Instructor of annual undergraduate workshops on flow cytometry and primary productivity (2009-2015)
 
 Mentoring
 ======
-####Undergraduate
+##### Undergraduate
 
 Sanoosh Gamblewood (Wester Wash. University), Research Experiences for Undergraduates (2016)
 Glauco Rivera (University of Puerto Rico, Mayagüez), Research Experiences for Undergraduates (2017)
 Assisted in the mentoring of 12 additional students with Dr. Brian Bingham from 2009 – 2015.
 
-####Graduate
+##### Graduate
 
 Natalie Coleman (Wester Wash. University), graduate committee member (2017-2018)
 Assisted in the mentoring of 4 additional students with Dr. Brian Bingham from 2009 – 2015.
