@@ -4,7 +4,7 @@ main:
     url: /publications/ 
         
   - title: "Open Science"	
-    url: /portfolio/ 
+    url: /openscience/
     
   - title: "CV"
     url: /cv/
