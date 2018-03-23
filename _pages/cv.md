@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[PDF here](jldimond.github.io/files/JDCVMar18_links.pdf)
+[PDF here](https://jldimond.github.io/files/JDCVMar18_links.pdf)
 
