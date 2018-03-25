@@ -14,7 +14,7 @@ Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) P
 
 Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change. Molecular Ecology 25:1895-904 [Abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13414) [Postprint](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/34298/Dimond_et_al-2015-Molecular_Ecology.pdf?sequence=1&isAllowed=y)
 
-Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [Article](https://gihub.com/jldimond/jldimond.github.io/files/Bingham et al. 2014.pdf)
+Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [Article](https://gihub.com/jldimond/jldimond.github.io/files/Bingham-et-al.-2014.pdf)
 
 Dimond JL, Pineda RR, Ramos Z, Bingham BL (2013) Relationships between host and symbiont cell cycles in sea anemones and their symbiotic dinoflagellates. Biological Bulletin 225:102-112 Article link
 
