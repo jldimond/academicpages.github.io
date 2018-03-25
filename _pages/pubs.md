@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://github.com/jldimond/jldimond.github.io/files/Dimond_etal_Porites.pdf)
+Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
 
 Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of Symbiodinium muscatinei and Elliptochloris marina, symbionts found within the aggregating sea anemone Anthopleura elegantissima. Marine Genomics (online) [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
 
@@ -14,15 +14,15 @@ Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) P
 
 Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change. Molecular Ecology 25:1895-904 [Abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13414) [Postprint](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/34298/Dimond_et_al-2015-Molecular_Ecology.pdf?sequence=1&isAllowed=y)
 
-Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [Article](https://github.com/jldimond/jldimond.github.io/files/Bingham_et al_2014.pdf)
+Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [Article](https://jldimond.github.io/files/Bingham_et al_2014.pdf)
 
-Dimond JL, Pineda RR, Ramos Z, Bingham BL (2013) Relationships between host and symbiont cell cycles in sea anemones and their symbiotic dinoflagellates. Biological Bulletin 225:102-112 [Article](https://github.com/jldimond/jldimond.github.io/files/Dimond_et_al_2013-BiolBull.pdf)
+Dimond JL, Pineda RR, Ramos Z, Bingham BL (2013) Relationships between host and symbiont cell cycles in sea anemones and their symbiotic dinoflagellates. Biological Bulletin 225:102-112 [Article](https:jldimond.github.io/files/Dimond_et_al_2013-BiolBull.pdf)
 
 Dimond JL, Bingham BL, Muller-Parker G, Oakley CA (2013) Symbiont physiology and population dynamics before and during symbiont shifts in a flexible algal-cnidarian symbiosis. Journal of Phycology 49:1074-1083 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12112)
 
 Dimond JL, Kerwin AH, Rotjan RD, Sharp K, Stewart FJ, Thornhill DJ (2013) A simple temperature-based model predicts the upper latitudinal limit of the temperate coral Astrangia poculata. Coral Reefs 32:401-409 [Abstract](https://link.springer.com/article/10.1007/s00338-012-0983-z)
 
-Dimond JL, Holzman BJ, Bingham BL (2012). Thicker host tissues moderate light stress in a cnidarian endosymbiont. Journal of Experimental Biology 215: 2247-2254 [Article](https://github.com/jldimond/jldimond.github.io/files/Dimond_etal_2012.pdf)
+Dimond JL, Holzman BJ, Bingham BL (2012). Thicker host tissues moderate light stress in a cnidarian endosymbiont. Journal of Experimental Biology 215: 2247-2254 [Article](https://jldimond.github.io/files/Dimond_etal_2012.pdf)
 
 Dimond JL, Bingham BL, Muller-Parker G, Wuesthoff K, Francis L (2011) Seasonal stability of a flexible algal-cnidarian symbiosis in a highly variable temperate environment. Limnology and Oceanography 56:2233-2242 Article link
 
