@@ -3,9 +3,7 @@ permalink: /pubs/
 title: "Publications"
 excerpt: "A list of publications"
 author_profile: true
-redirect_from: 
-  - "/publications/"
-  - "/publications.html"
+
 ---
 
 
