@@ -8,13 +8,14 @@ redirect_from:
   - "/ops.html"
 ---
 
+In keeping with open and reproducible science practices, I maintain openly accessible records of the research I conduct.
 
-### Lab notebook
+## Lab Notebook
 
 In the future this site may house my lab notebook, but for now my notebook is located at [Open Notebook Science Network](http://onsnetwork.org/jdimond/). This is where I try to keep records on any “wet” bench work or field work.
 
-### Github repositories
+## Github Repositories
 
-Most of my projects these days result in computing workflows using R and/or Jupyter Notebooks. Repositories detailing such work are kept in my [Github account](https://github.com/jldimond/). A recent [example](https://github.com/jldimond/Branching-Porites)
+Most of my projects these days result in computing workflows using [R](https://www.r-project.org/) and/or [Jupyter Notebooks](https://jupyter.org/). Repositories detailing such work are kept in my [Github account](https://github.com/jldimond/). A recent [example](https://github.com/jldimond/Branching-Porites)
 
 ![polypstrip](/images/PC140520.JPG)
