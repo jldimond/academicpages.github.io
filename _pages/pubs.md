@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+
 Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
 
 Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of Symbiodinium muscatinei and Elliptochloris marina, symbionts found within the aggregating sea anemone Anthopleura elegantissima. Marine Genomics (online) [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
@@ -38,3 +39,5 @@ Dimond J, Carrington E (2007) Temporal variation in the symbiosis and growth of 
 
 Rotjan RD, Dimond JL, Thornhill DJ, Leichter JJ, Helmuth B, Kemp DW, Lewis SM (2006) Chronic parrotfish grazing impedes coral recovery after bleaching. Coral Reefs 25:361-368 [Abstract](https://link.springer.com/article/10.1007/s00338-006-0120-y)
 
+
+![polyps](https://jldimond.github.io/images/PC140520.JPG)
