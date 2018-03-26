@@ -1,13 +1,10 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
+excerpt: "My CV"
 author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
+---
 
 
 [PDF here](https://jldimond.github.io/files/JDCVMar18_links.pdf)
