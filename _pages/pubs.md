@@ -13,7 +13,7 @@ author_profile: true
 
 Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
 
-Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of Symbiodinium muscatinei and Elliptochloris marina, symbionts found within the aggregating sea anemone Anthopleura elegantissima. Marine Genomics (online) [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
+Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of _Symbiodinium muscatinei_ and _Elliptochloris marina_, symbionts found within the aggregating sea anemone _Anthopleura elegantissima_. Marine Genomics (online) [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
 
 Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change. Molecular Ecology 25:1895-904 [Abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13414) [Postprint](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/34298/Dimond_et_al-2015-Molecular_Ecology.pdf?sequence=1&isAllowed=y)
 
@@ -21,13 +21,13 @@ Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns a
 
 ![physiology](/images/photophys.jpg)
 
-Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) Photophysiology and hydrogen peroxide generation of the dinoflagellate and chlorophyte symbionts of the sea anemone Anthopleura elegantissima. Journal of Experimental Marine Biology and Ecology 489:43-47 [Abstract](https://www.sciencedirect.com/science/article/pii/S0022098117300400)
+Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) Photophysiology and hydrogen peroxide generation of the dinoflagellate and chlorophyte symbionts of the sea anemone _Anthopleura elegantissima_. Journal of Experimental Marine Biology and Ecology 489:43-47 [Abstract](https://www.sciencedirect.com/science/article/pii/S0022098117300400)
 
 Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [PDF](https://jldimond.github.io/files/Bingham_et al_2014.pdf)
 
 Dimond JL, Holzman BJ, Bingham BL (2012). Thicker host tissues moderate light stress in a cnidarian endosymbiont. Journal of Experimental Biology 215: 2247-2254 [PDF](https://jldimond.github.io/files/Dimond_etal_2012.pdf)
 
-Bingham BL, Freytes I, Emery M, Dimond J, Muller-Parker G (2011) Aerial exposure and body temperature of the intertidal sea anemone Anthopleura elegantissima. Invertebrate Biology 130:291-301 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7410.2011.00241.x)
+Bingham BL, Freytes I, Emery M, Dimond J, Muller-Parker G (2011) Aerial exposure and body temperature of the intertidal sea anemone _Anthopleura elegantissima_. Invertebrate Biology 130:291-301 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7410.2011.00241.x)
 
 ## Symbiosis Dynamics
 
@@ -43,13 +43,13 @@ Dimond J, Carrington E (2008) Symbiosis regulation in a facultatively symbiotic 
 
 ![biogeography](/images/biogeog.jpg)
 
-Dimond JL, Kerwin AH, Rotjan RD, Sharp K, Stewart FJ, Thornhill DJ (2013) A simple temperature-based model predicts the upper latitudinal limit of the temperate coral Astrangia poculata. Coral Reefs 32:401-409 [Abstract](https://link.springer.com/article/10.1007/s00338-012-0983-z)
+Dimond JL, Kerwin AH, Rotjan RD, Sharp K, Stewart FJ, Thornhill DJ (2013) A simple temperature-based model predicts the upper latitudinal limit of the temperate coral _Astrangia poculata_. Coral Reefs 32:401-409 [Abstract](https://link.springer.com/article/10.1007/s00338-012-0983-z)
 
 Dimond JL, Bingham BL, Muller-Parker G, Wuesthoff K, Francis L (2011) Seasonal stability of a flexible algal-cnidarian symbiosis in a highly variable temperate environment. Limnology and Oceanography 56:2233-2242 [Abstract](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2011.56.6.2233)
 
 Carrington E, Moeser GM, Dimond J, Mello JP, Boller ML (2009) Seasonal disturbance to mussel beds: Field test of a mechanistic model predicting wave dislodgment. Limnology and Oceanography 54:978-986 [Abstract](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2009.54.3.0978)
 
-Dimond J, Carrington E (2007) Temporal variation in the symbiosis and growth of the temperate scleractinian coral Astrangia poculata. Marine Ecology Progress Series 348:161-172 [PDF](https://jldimond.github.io/files/DimondAndCarrington2007.pdf)
+Dimond J, Carrington E (2007) Temporal variation in the symbiosis and growth of the temperate scleractinian coral _Astrangia poculata_. Marine Ecology Progress Series 348:161-172 [PDF](https://jldimond.github.io/files/DimondAndCarrington2007.pdf)
 
 ## Corallivory
 
