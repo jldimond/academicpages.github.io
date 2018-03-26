@@ -9,4 +9,4 @@ author_profile: true
 
 ## [PDF here](https://jldimond.github.io/files/JDCVMar18_links.pdf)
 
-![polyps](/images/PC140520-2.JPG)
+![polypstrip](/images/PC140520.JPG)
