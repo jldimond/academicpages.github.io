@@ -11,9 +11,9 @@ author_profile: true
 
 ![genomics](/images/genomics2.jpg)
 
-Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
+Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology 26:5031-5042 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
 
-Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of _Symbiodinium muscatinei_ and _Elliptochloris marina_, symbionts found within the aggregating sea anemone _Anthopleura elegantissima_. Marine Genomics (online) [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
+Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2017) Transcriptome sequencing and characterization of _Symbiodinium muscatinei_ and _Elliptochloris marina_, symbionts found within the aggregating sea anemone _Anthopleura elegantissima_. Marine Genomics 37:82-91 [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
 
 Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change. Molecular Ecology 25:1895-904 [Abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13414) [Postprint](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/34298/Dimond_et_al-2015-Molecular_Ecology.pdf?sequence=1&isAllowed=y)
 
@@ -25,7 +25,7 @@ Dimond JL, Orechovesky S, Oppenheimer J, Rodríguez-Ramos J, Bingham BL (2017) P
 
 Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [PDF](https://jldimond.github.io/files/Bingham_et al_2014.pdf)
 
-Dimond JL, Holzman BJ, Bingham BL (2012). Thicker host tissues moderate light stress in a cnidarian endosymbiont. Journal of Experimental Biology 215: 2247-2254 [PDF](https://jldimond.github.io/files/Dimond_etal_2012.pdf)
+Dimond JL, Holzman BJ, Bingham BL (2012). Thicker host tissues moderate light stress in a cnidarian endosymbiont. Journal of Experimental Biology 215:2247-2254 [PDF](https://jldimond.github.io/files/Dimond_etal_2012.pdf)
 
 Bingham BL, Freytes I, Emery M, Dimond J, Muller-Parker G (2011) Aerial exposure and body temperature of the intertidal sea anemone _Anthopleura elegantissima_. Invertebrate Biology 130:291-301 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7410.2011.00241.x)
 
