@@ -9,7 +9,7 @@ author_profile: true
 
 ## Genomics & Molecular Biology
 
-![genomics](/images/genomics.jpg)
+![genomics](/images/genomics2.jpg)
 
 Dimond JL, Gamblewood SK, Roberts SB (2017) Genetic and epigenetic insight into morphospecies in a reef coral. Molecular Ecology (online) [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14252) [Preprint](https://jldimond.github.io/files/Dimond_etal_Porites.pdf)
 
