@@ -12,4 +12,4 @@ I'm a marine biologist currently completing a PhD in the [Roberts Lab](https://f
 
 I also work as a Marine Technologist at Western Washington University's [Shannon Point Marine Center](http://www.wwu.edu/spmc/). Here, my role includes boating and diving support for courses and research, coastal oceanographic monitoring for the [Washington Department of Ecology](https://ecology.wa.gov/Research-Data/Monitoring-assessment/Puget-Sound-and-marine-monitoring), and advising student research projects.
 
-![monitoring](/images/RMonitoring5.2016-300-1.png)
+![monitoring](/images/RMonitoring5.2016-300copy.jpg)
