@@ -7,6 +7,6 @@ author_profile: true
 ---
 
 
-## [PDF here](https://jldimond.github.io/files/JDCVJan19_links.pdf)
+## [PDF here](https://jldimond.github.io/files/JDCVAug19.pdf)
 
 ![polypstrip](/images/PC140520.JPG)
