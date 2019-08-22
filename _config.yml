@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "James L Dimond"
   avatar           : "IMG_8533_4.png"
-  bio              : "Marine Technologist at Western Washington University's Shannon Point Marine Center"
+  bio              : 
   location         : "Anacortes, WA, USA"
-  employer         :
-  googlescholar    : 
-  email            : "jldimond@uw.edu"
+  employer         : Shannon Point Marine Center
+  googlescholar    : "https://scholar.google.com/citations?user=Uu6EthwAAAAJ&hl=en"
+  email            : "jdimond@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
