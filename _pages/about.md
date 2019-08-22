@@ -12,4 +12,4 @@ I'm a marine biologist with a background primarily in the biology and ecology of
 
 I work at Western Washington University's [Shannon Point Marine Center](http://www.wwu.edu/spmc/). Here, my role includes boating and diving support for courses and research, coastal oceanographic monitoring for the [Washington Department of Ecology](https://ecology.wa.gov/Research-Data/Monitoring-assessment/Puget-Sound-and-marine-monitoring), teaching, and advising student research projects.
 
-![monitoring](/images/RMonitoring5.2016-300copy.jpg)
+![polyps](/images/PC140520.JPG)
