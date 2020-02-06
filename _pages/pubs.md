@@ -9,7 +9,7 @@ author_profile: true
 
 ![genomics](/images/genomics2.jpg)
 
-Dimond JL, Roberts SB (2019) Convergence of DNA methylation profiles in a novel environment in the reef coral _Porites astreoides_. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/747840v1.abstract)
+Dimond JL, Roberts SB (2020) Convergence of DNA methylation profiles of the reef coral _Porites astreoides_ in a novel environment. Frontiers in Marine Science 6:792 [Article](https://www.frontiersin.org/articles/10.3389/fmars.2019.00792/full)
 
 Macrander JC, Dimond JL, Bingham BL, Reitzel AM (2018) Transcriptome sequencing and characterization of _Symbiodinium muscatinei_ and _Elliptochloris marina_, symbionts found within the aggregating sea anemone _Anthopleura elegantissima_. Marine Genomics 37:82-91 [Abstract](https://www.sciencedirect.com/science/article/pii/S1874778717300223)
 
