@@ -8,8 +8,6 @@ redirect_from:
   - "/ops.html"
 ---
 
-In keeping with open and reproducible science practices, I maintain openly accessible records of the research I conduct.
-
 ## Lab Notebook
 
 In the future this site may house my lab notebook, but for now my notebook is located at [Open Notebook Science Network](http://onsnetwork.org/jdimond/). This is where I try to keep records on any “wet” bench work or field work.
