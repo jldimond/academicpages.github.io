@@ -21,7 +21,7 @@ Dimond JL, Roberts SB (2016) Germline DNA methylation in reef corals: patterns a
 
 ![physiology](/images/photophys.jpg)
 
-Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society of London B 281:20140548 [PDF](https://jldimond.github.io/files/Bingham_et al_2014.pdf)
+Bingham BL, Dimond JL, Muller-Parker G (2014) Symbiotic state influences life-history strategy of a clonal cnidarian. Proceedings of the Royal Society B 281:20140548 [PDF](https://jldimond.github.io/files/Bingham_et al_2014.pdf)
 
 Dimond JL, Bingham BL, Muller-Parker G, Oakley CA (2013) Symbiont physiology and population dynamics before and during symbiont shifts in a flexible algal-cnidarian symbiosis. Journal of Phycology 49:1074-1083 [Abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.12112)
 
